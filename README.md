@@ -4,7 +4,7 @@ Windows installer downloads and release notes for SnipShot, a screen capture and
 
 ## Release status
 
-The first installer is being prepared for release. A Store-ready download will be published after code signing is configured. Draft releases are visible only to repository collaborators.
+An [unsigned preview installer](https://github.com/mulletbum/SnipShot-Downloads/releases/download/v1.6.0-unsigned-preview/SnipShot-1.6.0-x64.msi) is available for testing. Windows may show an Unknown publisher or SmartScreen warning. This preview is not ready for Microsoft Store submission. A signed release will use a separate versioned URL.
 
 ## System requirements
 
